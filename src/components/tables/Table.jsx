@@ -34,7 +34,7 @@ const Table = ({ data, columnsDef }) => {
                     <>
                       <tr
                         key={item.id}
-                        className="h-[48px] hover:bg-gray-50 shadow-[0px_-1px_0px_0px] first:shadow-[#cccccc] not-first:shadow-[#e6e6e6]"
+                        className="h-[50px] hover:bg-gray-50 shadow-[0px_-1px_0px_0px] first:shadow-[#cccccc] not-first:shadow-[#e6e6e6]"
                       >
                         <td className="px-3">
                           <span className="bg-[#F0F0F0] p-1 px-2 rounded-lg text-gray-500 text-[12px]">
