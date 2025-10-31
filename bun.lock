@@ -5,6 +5,7 @@
       "name": "savvytech_task",
       "dependencies": {
         "@tailwindcss/vite": "^4.1.16",
+        "iconsax-reactjs": "^0.0.8",
         "prettier": "^3.6.2",
         "react": "^19.1.1",
         "react-dom": "^19.1.1",
@@ -343,6 +344,8 @@
     "graceful-fs": ["graceful-fs@4.2.11", "", {}, "sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ=="],
 
     "has-flag": ["has-flag@4.0.0", "", {}, "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="],
+
+    "iconsax-reactjs": ["iconsax-reactjs@0.0.8", "", { "peerDependencies": { "react": "*" } }, "sha512-cb+uTMxbkSFNbu8ZclX7BWQVfOWQt8+m/PsDjnsm/H+mcYrnfTYMjHxiof1FB43k7UAgt1ds+0oFeMVKdqyslw=="],
 
     "ignore": ["ignore@5.3.2", "", {}, "sha512-hsBTNUqQTDwkWtcdYI2i06Y/nUBEsNEDJKjWdigLvegy8kDuJAS8uRlpkkcQpyEXL0Z/pjDy5HBmMjRCJ2gq+g=="],
 

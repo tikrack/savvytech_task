@@ -46,29 +46,4 @@
         direction: rtl;
         font-family: "iran-yekan", "rokh", sans-serif;
     }
-
-    .gradient-primary {
-        background-image: linear-gradient(to right bottom, #1c3faa, #5382ff);
-    }
-
-    #nprogress .bar {
-        background: var(--color-primary) !important;
-    }
-
-    #nprogress .peg {
-        box-shadow: 0 0 10px var(--color-primary), 0 0 5px var(--color-primary) !important;
-    }
-
-    #nprogress .spinner-icon {
-        border-top-color: var(--color-primary) !important;
-        border-left-color: var(--color-primary) !important;
-    }
-
-    .track-2 path {
-        stroke-width: 2px;
-    }
-
-    .track-3 path {
-        stroke-width: 3px;
-    }
 }
