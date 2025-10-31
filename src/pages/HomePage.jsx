@@ -10,8 +10,10 @@ const HomePage = () => {
 
   return (
     <>
-      <Table columnsDef={columnsDef} data={data} />
-      <button onClick={handleClick}>click Me</button>
+      <div className="mx-auto w-full max-w-400">
+        
+        <Table columnsDef={columnsDef} data={data} />
+      </div>
     </>
   );
 };

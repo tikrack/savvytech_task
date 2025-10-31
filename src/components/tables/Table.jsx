@@ -3,7 +3,7 @@ import React from "react";
 const Table = ({ data, columnsDef }) => {
   return (
     <>
-      <div className="bg-white rounded-[14px] w-full p-4 mb-4">
+      <div className="bg-white rounded-[14px] w-full">
         <div className="w-full mt-4 overflow-x-auto">
           <table className="min-w-full table-fixed border border-gray-300 border-separate border-spacing-0 rounded-xl overflow-hidden">
             <thead className="h-[36px] bg-[#f0f0f0] text-[#7f7f7f]">
